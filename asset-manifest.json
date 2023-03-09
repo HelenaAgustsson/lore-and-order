@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lore-and-order/static/css/main.073c9b0a.css",
+    "main.js": "/lore-and-order/static/js/main.399580d5.js",
+    "static/js/787.1343e7e6.chunk.js": "/lore-and-order/static/js/787.1343e7e6.chunk.js",
+    "static/media/logo.svg": "/lore-and-order/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lore-and-order/index.html",
+    "main.073c9b0a.css.map": "/lore-and-order/static/css/main.073c9b0a.css.map",
+    "main.399580d5.js.map": "/lore-and-order/static/js/main.399580d5.js.map",
+    "787.1343e7e6.chunk.js.map": "/lore-and-order/static/js/787.1343e7e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.399580d5.js"
+  ]
+}
